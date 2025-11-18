@@ -10,4 +10,4 @@ User-Agent: admin
 ```
 - After we replace User-Agent with admin we have the password (flag)
 
-![alt text](/img/image-4.png)
+![alt text](../img/image-4.png)

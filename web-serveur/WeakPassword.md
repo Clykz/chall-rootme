@@ -11,4 +11,4 @@ Password : admin
 ```
 - After we put admin for user and admin too for password we have flag
 
-![alt text](/img/image.png)
+![alt text](../img/image.png)
