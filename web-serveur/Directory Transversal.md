@@ -1,4 +1,4 @@
-# 🧩Challenge : CRLF%0d%0aInjection
+# 🧩Challenge : Directory Transversal
 
 # 🔍 Description
 - The main goal of this challenge is to navigate and manipulate the URL.
