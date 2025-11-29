@@ -1,9 +1,9 @@
-# 🧩Challenge : Directory Transversal
+# Description
+```
+Find the hidden section of the photo galery.
+```
 
-# 🔍 Description
-- The main goal of this challenge is to navigate and manipulate the URL.
-
-# ⚙️ Exploitation
+# Exploit
 - By analyzing the source code, we can see that the application loads directories based on the ``galerie`` parameter in the URL.
 This means we can manipulate this parameter to explore other directories on the server, which is the core of the vulnerability.
 
